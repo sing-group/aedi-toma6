@@ -5,6 +5,38 @@
     <artifactId>Proyecto_Toma6_Plantilla</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
+    <organization>
+        <name>Escola Superior de Enxeñaría Informática - Universidade de Vigo</name>
+        <url>https://esei.uvigo.es/</url>
+    </organization>
+
+    <developers> 
+        <developer>
+            <name>Florentino Fernández Riverola</name>
+            <organization>SING Group - University of Vigo</organization>
+            <organizationUrl>https://esei.uvigo.es/</organizationUrl>
+            <email>riverola@uvigo.gal</email>
+        </developer> 
+        <developer>
+            <name>Rosalía Laza Fidalgo</name>
+            <organization>SING Group - University of Vigo</organization>
+            <organizationUrl>https://esei.uvigo.es/</organizationUrl>
+            <email>rlaza@uvigo.gal</email>
+        </developer>
+        <developer>
+            <name>María Novo Lourés</name>
+            <organization>SING Group - University of Vigo</organization>
+            <organizationUrl>https://esei.uvigo.es/</organizationUrl>
+            <email>manovo@uvigo.gal</email>
+        </developer>
+        <developer>
+            <name>María Reyes Pavón Rial</name>
+            <organization>SING Group - University of Vigo</organization>
+            <organizationUrl>https://esei.uvigo.es/</organizationUrl>
+            <email>pavon@uvigo.gal</email>
+        </developer>
+    </developers>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>17</maven.compiler.source>

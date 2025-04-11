@@ -2,7 +2,7 @@
  * #%L
  * Proyecto_Toma6_Plantilla
  * %%
- * Copyright (C) 2024 SING Group (University of Vigo)
+ * Copyright 2024 Florentino Fernández Riverola,  Rosalía Laza Fidalgo, María Novo Lourés, Reyes Pavón Rial.
  * %%
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
